@@ -1,5 +1,8 @@
 # Power-BI-Project-Uncovering-Job-Market-Trends-for-DataSearch
 In this project, I applied my Power BI skills to analyze a real-world job posting dataset for a fictional recruitment company, DataSearch. The goal was to extract valuable insights about the current demand in the job market, specifically focusing on roles such as data scientists, data analysts, and data engineers.
+![Screenshot 2024-01-18 at 19 05 58](https://github.com/AniangJam/Power-BI-Project-Uncovering-Job-Market-Trends-for-DataSearch/assets/155065772/fe1d8128-a04d-4900-ae38-c773602fd755)
+![Screenshot 2024-01-18 at 19 04 57](https://github.com/AniangJam/Power-BI-Project-Uncovering-Job-Market-Trends-for-DataSearch/assets/155065772/033959ff-d3c0-4812-a45b-b4025974aa9e)
+![Screenshot 2024-01-18 at 19 05 39](https://github.com/AniangJam/Power-BI-Project-Uncovering-Job-Market-Trends-for-DataSearch/assets/155065772/0b19d2a4-2c86-48c6-86d8-8e5c41d55d1f)
 
 **Key Achievements:**
 
